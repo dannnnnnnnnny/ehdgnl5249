@@ -7,3 +7,5 @@
 ![python](http://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white) ![django](http://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdgnl5249&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehdgnl5249&hide=html,pug,css&langs_count=7&exclude_repo=ai_scikit-learn,python_study,python-for-coding-test)](https://github.com/ehdgnl5249)
