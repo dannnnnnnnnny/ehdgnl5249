@@ -5,5 +5,3 @@
 #### ✨Tech Stack ✨
 ![nodejs](http://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js&logoColor=darkgreen) ![nestjs](http://img.shields.io/badge/-NestJS-red?style=flat-square&logo=NestJS&logoColor=white) ![expressjs](http://img.shields.io/badge/-ExpressJS-grey?style=flat-square&logo=Express) ![reactjs](http://img.shields.io/badge/-React-black?style=flat-square&logo=React&logoColor=skyblue) ![typescript](http://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white)
 ![python](http://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white) ![django](http://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=Django&logoColor=white)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdgnl5249&show_icons=true&theme=radical&hide=stars&hide_border=true)
